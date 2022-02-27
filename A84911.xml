@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Every mans right: or, Englands perspective-glasse. Wherein may be seen, every mans case, face, birthright, and just liberty. Whereunto is added; the copie of a letter written by a prisoner in the Fleet, unto a worthy member of the House of Commons; expressing the necessitie of justice, and the illegality of imprisonment of men for debt. Composed (primarily) for the meridian of London and VVestminster, and may prove very profitable, to inlighten the eyes of all the commons of England, in this year of our long-expected reformation, and suppressions of injustice, tyranny, and oppression, anno 1646.</title>
+            <author>Freize, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84911</idno>
+            <idno type="STC">Wing F2197A</idno>
+            <idno type="STC">Thomason E340_2</idno>
+            <idno type="STC">ESTC R200865</idno>
+            <idno type="EEBO-CITATION">99861491</idno>
+            <idno type="PROQUEST">99861491</idno>
+            <idno type="VID">113628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113628)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Every mans right: or, Englands perspective-glasse. Wherein may be seen, every mans case, face, birthright, and just liberty. Whereunto is added; the copie of a letter written by a prisoner in the Fleet, unto a worthy member of the House of Commons; expressing the necessitie of justice, and the illegality of imprisonment of men for debt. Composed (primarily) for the meridian of London and VVestminster, and may prove very profitable, to inlighten the eyes of all the commons of England, in this year of our long-expected reformation, and suppressions of injustice, tyranny, and oppression, anno 1646.</title>
+                  <author>Freize, James.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By James Freize, who has signed page 4: James Frese.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freize, James.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113628:1"/>
+            <pb facs="tcp:113628:1" rendition="simple:additions"/>
+            <p>Every mans Right: or, <hi>ENGLANDS</hi> PERSPECTIVE-GLASSE.</p>
+            <p>Wherein may be ſeen, every mans Caſe, Face, Birth<g ref="char:EOLhyphen"/>right, and juſt Liberty.</p>
+            <p>Whereunto is added; The Copie of a Letter written by a Priſoner in the <hi>Fleet,</hi> unto a worthy Member of the Houſe of <hi>Commons:</hi> Expreſſing the neceſſitie of Juſtice, and the illegality of Impriſonment of men for Debt.</p>
+            <p>Compoſed (primarily) for the Meridian of <hi>London</hi> and <hi>VVeſtminſter,</hi> and may prove very profitable, to inlighten the eyes of all the Commons of <hi>England,</hi> in this year of our long-expected Reformation, and Suppreſſions of Injuſtice, Tyranny, and Oppreſſion, <hi>Anno</hi> 1646.</p>
+            <q>
+               <bibl>Prov. 21.3.7.10.15.</bibl>
+               <p>The ſoul of the wicked deſireth evill, his neighbour fin<g ref="char:EOLhyphen"/>deth no favour in his eyes. It is joy to the juſt to do judgement, But deſtru<g ref="char:EOLhyphen"/>ction ſhall be to the workers of iniquity. To do justice, and judgement, is more acceptable then ſacrifice.</p>
+            </q>
+            <q>
+               <bibl>Prov. 24.23, 24.</bibl>
+               <p>It is not good to have reſpect of perſons in judgement (for) he that ſayeth to the wicked, thou art righteous, him ſhall the people curſe, and Nations ſhall abhorr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>him.</p>
+            </q>
+            <q>
+               <bibl>Prov. 31.8, 9.</bibl>
+               <p>Therefore open thy mouth wide, in the cauſe of all ſuch as are appointed to deſtruction; Open thy mouth, judge righteouſly, and plead the cauſe of the poor and needy.</p>
+            </q>
+            <q>
+               <bibl>Eccleſ. 4.1.</bibl>
+               <p>So I conſidered all the oppreſſions that are done, and behold the Tears of ſuch as be oppreſſed, and they have no comforter, and on the ſide of their oppreſſours there is power, but the oppreſſed have no com<g ref="char:EOLhyphen"/>forter.</p>
+            </q>
+            <q>
+               <bibl>Job. 24.25.</bibl>
+               <p>And if it be not ſo now, who will (or can) make me a Liar, and make my ſpeech nothing worth.</p>
+            </q>
+            <p>Fear not the face of the mighty, neither be diſmayed at the looks of the haughty, for their end ſhall be ſuddainly.</p>
+            <p>Printed, Anno 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="letter">
+               <pb facs="tcp:113628:2"/>
+               <pb n="1" facs="tcp:113628:2"/>
+               <head>The Copie of a letter written unto the worthy Member of the Honourable houſe of Commons, Mr. HENRY MARTIN, Apr. the 18. Anno 1646.</head>
+               <opener>
+                  <salute>HONOURED SIR,</salute>
+               </opener>
+               <p>THe many guifts and graces diſplaying themſelves in you, and by them ſetting forth your zeal to Gods glory, and your Native Countries welfare, together with the hopes of comfort we apprehend in the reſtoration unto the place you poſſeſſed, when the Ordinance of Parliament paſſed for releaſe of priſoners for debt, and others as unjuſtly reſtrained; incourages me to ad<g ref="char:EOLhyphen"/>dreſſe my ſelf unto you, not only in mine own particular, but alſo, for and in the behalf of all, ſuffering impriſonment for Debt, in thoſe times in which the whole Kingdome is become Banckrupt; and inforced by a ſtrong hand to work his peace for the reſtoration of her Liberty, Laws, and Religion in its purity, according to the true and only rule, <hi>The Word of God.</hi> Yet we poor creatures, whom the Lord by his juſt afflicting hand, hath bereft of all their eſtates, through ſeverall croſſes and loſſes by Sea and Land, are ſtill afflicted, impriſoned, and oppreſſed by thoſe, who doubtleſſe in their hearts, conceit themſelves wiſer then their Creator, and by that their phantaſtick wiſdome, endeavour, by moſt cruell oppreſ<g ref="char:EOLhyphen"/>ſion and tyranny, over their brethren (like to the <hi>Alcumiſt</hi>) to extract ſomething out of nothing; viz. Satisfaction of debts out of their Brethren, who have nothing, being bereft long before by the juſt hand of heaven. Onely here is the difference; The Lord after his juſt judgement inflicted on us, did in mercy ſuffer us ſtill to enjoy the liberty of our perſons, and thereby the future uſe of
+<pb n="2" facs="tcp:113628:3"/>our endeavours for ſubſiſtence, and the common ayre to breath in; But theſe moſt cruel,<note place="margin">Mich. 7.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 3, 1, 5, 6.</note> mercileſſe, unjuſt, perſecuting <hi>Nimrods,</hi> have not only (by that abominable Statute of Bancrupt) bereft us of all the remainder of our Estates, to the very covering of our na<g ref="char:EOLhyphen"/>kedneſſe; but alſo have moſt cruelly ſhut us up in their ſeverall priſon houſes for <hi>8. 10. 20.</hi> yeers <hi>30.</hi> yeers together, There their blood thirſtie Soules (like ſo many Cainballs) feeding upon our bodies and lives, thinking to extract ſatisfaction for their debts out of the very ruins of our poore ſoules and lives, depriving us (in theſe their ſoul-deſtroying houſes) of the very ayre, by the Lord alotted in common to every Creature to breath in, where our conditions is farre worſe then the fellons caſe, who commonly within <hi>2.</hi> or <hi>3.</hi> moneths after their Commitment to priſon, are by the Law, either aquitted of their Impriſonment, or by depriva<g ref="char:EOLhyphen"/>tion of life releaſed out of their miſerable ſufferings; whereas our miſery of Impriſonment for Debt, is contnued many yeeres, and ſeldome ends, but by a violent (untimely, or naturall) de<g ref="char:EOLhyphen"/>privation of our lives in extreame miſery.</p>
+               <p>Shall we the Inhabitants of England, who profeſſe the true Knowledge, Honour, Love, and feare of God, and the Rule of true Chriſtian Charity prove more cruel to our Brethren and fellow Members of the ſame Common Wealth, then Turkes and Pagans, who knowes not God in a ſaving way, or the unjuſt judge in the Goſpel who cared neither for God nor man, yet becauſe of the poore widdowes unceſſant importunity, he did her juſtice, by gran<g ref="char:EOLhyphen"/>ting her juſt requeſt, <hi>(God forbid) farre be it,</hi> from this ſo know<g ref="char:EOLhyphen"/>ing a nation, to mock God thus, in ſlighting, and neglecting him their <hi>Juſt and dreadfull God</hi> in theſe his three chiefeſt attributes, of <hi>Mercy, Judgement, and Juſtice,</hi> in ſtopping their eares from the hearing lamentable cries, of the oppreſſed, and becoming dumb to ſpeak in the behalfe of the afflicted, oppreſſed, and long impriſoned, or to judge their righteous cauſe in a free current without reſpect of perſons, and yet (with greife of heart be if ſpoken) our ſeverall unceſſant humble requeſts, have now continued more then <hi>Five yeeres,</hi> crying, knocking, and calling at the doores of the honour<g ref="char:EOLhyphen"/>able Aſſembly of Parliament; for <hi>Juſtice,</hi> and <hi>Releaſe,</hi> from this our unjuſtly inſlaved Thraldome: But hither to have we reaped no fruits of our humble and juſt deſires; For their faces
+<pb n="3" facs="tcp:113628:3"/>have been hid, &amp; their eares ſtopped againſt the cryes of our afflicti<g ref="char:EOLhyphen"/>ons, ſo that (as yet) none of our oppreſſions and wrongfull ſuffer<g ref="char:EOLhyphen"/>ings are redreſſed (as in duty both to God and Man, they ought long ſince to have bin) and then doubtleſſe our enemies had bin long ere this time at peace with us, &amp; the Land ſhould have in<g ref="char:EOLhyphen"/>joyed reſt; For when the wayes of men pleaſe the Lord, then (and not till then) ſhall their very enemies be at peace with them; <hi>For what do I require of thee O man ſaith the Lord; but to exe<g ref="char:EOLhyphen"/>cute Juſtice, to love mercy, and to walk humbly with thy God, to relieve the Widdow, the Fatherleſſe, and the ſtran<g ref="char:EOLhyphen"/>ger, and to let the oppreſſed, and long impriſoned go free: for in theſe things I delight ſaith the Lord: But my ſoule abhor<g ref="char:EOLhyphen"/>eth the wayes, of wickedneſſe, Injuſtice, Tyrannie, and Oppreſſion.</hi>
+               </p>
+               <p>The long neglect of Juſtice (I think) hath brought downe theſe heavie Judgements from the juſt hand of heaven upon this King<g ref="char:EOLhyphen"/>dome in ſpeciall, where God and his Statutes are ſo cleerly known, but whether they be as truly practiſed or not, I refer to your Judgement, and to the due conſideration of all ſuch as truly love and feare God.</p>
+               <p>
+                  <hi>For now ye purpoſe to keepe under the People of God for Bond men and Bond women unto you; But are there not with, you even with you, ſinnes againſt the Lord your God? And becauſe we have not from the firſt ſought the Lord, after a due order, and in the true practice and faithfull execution of Juſtice, Judgement, and mercy: Therefore hath the Lord God made this breach upon us, as at this day to the King<g ref="char:EOLhyphen"/>domes woe.</hi>
+               </p>
+               <p>The neglect of Juſtice, Judgment, and mercie (and the practiſe of the contrary by the <hi>Iſraelites</hi>) informed the Lord to become an enemy unto them, to ſwallow them up by his judgments of Plague, Peſtilence, Famine, and the Sword, and alſo to deſtroy all their ſtrong holds and places of habytation in the Land, and to increaſe unto them, <hi>Mourning, Lamentation, and Woe,</hi> and can we, who are guilty of the ſame tranſgreſſions (if not more) being but wild branches of that Olive tree, preſume to receive more favours from the hand of that moſt juſt God, then thoſe his peculiar choſen people the Iſraelites<g ref="char:punc">▪</g> Certainly no, <hi>For what meaſure ye mete un<g ref="char:EOLhyphen"/>to
+<pb n="4" facs="tcp:113628:4"/>the poor, afflicted, and oppreſſed, ſhall be meaſured to you again.</hi> Oh that there were ſome juſt <hi>Jehoſhaphat,</hi> to give ſom ſpeedy and ſtrict charge, for the due execution of juſtice, between man and man, in a free current without reſpect of perſons, and without the taking of <hi>Fees, Gifts, (alias Bribes)</hi> and otherwiſe ſtiled <hi>New-years gifts.</hi> The <hi>2 d.</hi> of <hi>Chron. 19.5, 6, 7, 9.10. ver<g ref="char:EOLhyphen"/>ſes.</hi> Or that there were in that honourable Aſſembly, ſome undaunted <hi>zealous Nehemiah,</hi> to ſtand up for the birth-right and juſt liberty of his brethren (according to the true intent of his being called to that place of truſt) &amp; to inforce juſtice to take its free current with<g ref="char:EOLhyphen"/>out reſpect of perſons (or the wages of <hi>Balaam</hi>) in deſpight of all wicked, abhominable, oppoſers of the ſame: <hi>Nehem. 5.5, 6, 7, 8, 9, 10, 11, 12. verſes.</hi> And I wiſh alſo from my heart, that the <hi>58, and 59. Chapters</hi> of <hi>Iſaiah,</hi> the <hi>58. Pſalme,</hi> the <hi>6.</hi> of <hi>Jere<g ref="char:EOLhyphen"/>miah,</hi> and the <hi>22.</hi> of <hi>Ezekiel,</hi> were truly looked into, piouſly conſidered, and well weighed by all the Inhabitants of the Land, from the higheſt euen to the loweſt of them, and that they might open their mouthes in the cauſe of the oppreſſed, and ſuch as are ap<g ref="char:EOLhyphen"/>pointed (by cruelty and tyranny) for deſtruction, that they might open their mouthes and judge righteouſneſſe, and plead the cauſe of the poor and needy.</p>
+               <p>I will ſay no more for this preſent, but onely from my poor op<g ref="char:EOLhyphen"/>preſſed and afflicted ſoul, moſt earneſtly and unceſſantly wiſh and pray for the proſperity of <hi>Sion,</hi> and the peace and flouriſhing ſtate of this Kingdome. Beſeeching you alſo in the bowels of compaſſion to think upon your afflicted, oppreſſed, and long-impriſoned Bre<g ref="char:EOLhyphen"/>thren, to caſt your eyes upon theſe incloſed papers; Intituled, <hi>An Appeal to Heaven;</hi> and the other called, <hi>A Declaration and ap<g ref="char:EOLhyphen"/>peal to all the free-born People of England;</hi> and then (as the Lord ſhall direct you) to prove a <hi>Moſes</hi> for our delivery out of this <hi>Egyptian</hi> bondage of unjuſt impriſonment, which is the moſt ear<g ref="char:EOLhyphen"/>neſt and humble ſute of him who is and will be</p>
+               <closer>
+                  <signed>Your aſſured friend in the Lord, to ſerve you in what he may to his power, JAMES FRES<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</signed>
+                  <dateline>
+                     <hi>From my chamber of cloſe impriſonment in the</hi> Fleet, <hi>ſince the 11 of</hi> Febr. <hi>1645.</hi> (<hi>contrary to the Subjects liberty, and the Parliaments own vote, in the eaſe of Sir</hi> Rich. Wiſeman <hi>and others, complain<g ref="char:EOLhyphen"/>ing of their cloſe impriſonment in the year 1641.</hi>) <date>
+                        <hi>this <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of</hi> April, <hi>1646.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="tract">
+               <pb n="5" facs="tcp:113628:4"/>
+               <p>Woe unto that Kingdome and people, where the wicked walke on every ſide (without controul) and the vileſt men are exalted to places of eminencie and truſt,<note place="margin">Iſai. 10.1, 2, 3, 4.</note> that they may op<g ref="char:EOLhyphen"/>preſſe and do violence with both hands, yea, that they may the more effectually exerciſe their cruel tyranny of injuſtice and oppreſſion (without let or hindrance) upon the poore, the needy, the afflicted, oppreſſed, and long impriſoned, in eſpeciall upon ſuch as honour, love, and feare God, and moſt earneſtly wiſh the peace and proſperity of this Kingdome, ſome ſuch as theſe have been brought to moſt untimely ends by Jaylor, and their ſubſtitutes, others quite lamed by their Iron fetters, others of them have ſurfered unjuſtly, moſt cruel and heavie afflicti<g ref="char:EOLhyphen"/>ons in ſeverall priſon houſes and denns of cruelty, from ſome (eminently ſupports) Jaylors, and their cruel ſubſtitutes, yet hi<g ref="char:EOLhyphen"/>therto none of theſe oppreſſed Chriſtians have been righted; but rather diſcouraged from ſeeking any redreſſe, their ſeverall Articles exibited againſt Jaylors, extreamly ſlighted, and them<g ref="char:EOLhyphen"/>ſelves ſtill expoſed to the inhumane rage and unlimited cruel<g ref="char:EOLhyphen"/>tie of theſe Jaylors, and their helliſh ſubſtitutes, to be by them (if not murthered) yet beaten, abuſed, reviled daily, and ſtarved to death, and decreppit by Irons, for inſtance the priſons of the <hi>Kings Bench,</hi> the <hi>Fleete,</hi> and <hi>Newgate.</hi>
+               </p>
+               <p>Behould they tread upon the poore, they afflict the needy, they murther the innocent, and cruſh the priſoners under their feet, before the face of the moſt high, not re<g ref="char:EOLhyphen"/>garding the Lord of Hoſts, nor his Power, nor his Juſtice, nor his Judgements, although he hath divided them, in ſetting the Prince againſt the people, the Father againſt the Sonne, and one friend againſt another, and hath ſet the ſword as a deſtroyer of them all, yet they ſtill provoke the Lord of Hoſts, the God of Juſtice unto wrath and indignation againſt themſelves, by neglecting the due execution of Juſtice, Judgements and mer<g ref="char:EOLhyphen"/>cy, in a free current (without reſpect of perſons, and the wages of <hi>Balaam</hi>) intituled, <hi>Fees, Nowyeers-gifts,</hi> and <hi>Bribes:</hi> It ſeemeth <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Riddle, not only to me, but alſo to many thou<g ref="char:EOLhyphen"/>ſands in the Kingdome, that the greateſt Conteſt betweene King and Parliament, being for the Liberty of the ſubiect (and hath been the cauſe of ſo much efuſian of Chriſtion blood
+<pb n="6" facs="tcp:113628:5"/>for almoſt 5. yeers together) the Peers of the Realme conſtant<g ref="char:EOLhyphen"/>ly enjoying the ſame, and yet the commonalty hitherto moſt unjuſtly debarred of the ſame, and ſtill inſlaved (as formerly) unto the arbitrary will and power of a few mercinarie Lawyers whoſe profeſſion and gayne inſlaves them to the will and diſ<g ref="char:EOLhyphen"/>poſition of the very worſt and skum of men and women, and ingages them (as hirelings) to maintaine their cauſe at any barre of juſtice (ſo called) for the price of iniquity; I meane for their fee of ten or twenty ſhillings, be the cauſe never ſo bace and unjuſt, ſo by them mayntained. It is therefore to be conſidered, whether it be agreeable to juſtice, and the freedome and proſperity of this Nacion, that the proſperity and flouriſh<g ref="char:EOLhyphen"/>ing ſtate of a few Lawyers, Atturneys, Jaylours, and their ad<g ref="char:EOLhyphen"/>herents ſhould be preſerved before, the juſt liberty, peace, and well being of this whole Nation and their poſterities, and whether it ſavour of Chriſtianity or any Charity, to inſlave your brethren to their works, and unjuſt wills, &amp; to coope them up (as a bird in a cage) in your priſon houſes, and not to pro<g ref="char:EOLhyphen"/>vide for their ſubſiſtence there, or for their determinate time of delivery from thence; but expoſe them to the oppreſſion of their adverſaries, and the ſeverall mercies cruelties of Jaylors and their cruell ſubſtitutes for many yeers, or whether the in<g ref="char:EOLhyphen"/>richment of a few Lawyers, Atturneys, Solicitors, Clarkes and Jaylors, be to be preferred before the flouriſhing Peace and tranquility of this whole Nation, and alſo whether it be accor<g ref="char:EOLhyphen"/>ding to Gods Law (whoſe people we profeſſe our ſelves to be) that juſtice ſhould not be executed nor adminiſtred unto the poore of the Land in particular, nor to all in generall, without the price and reward of iniquity, I meane without paying to <hi>Judges, Lawyers, Atturneys, Clarkes, Jaylours,</hi> their depu<g ref="char:EOLhyphen"/>ties and ſervants, their ſeverall great (unjuſt) exacting <hi>Fees, Fees I ſay,</hi> and <hi>Newyeers gifts</hi> (beſides <hi>Bribes</hi>) for expedition, and ſetting downe of a ſauſe for hearing, or elſe it may be ſtaved off by many jugling tricks and devices of our Lawyers from be<g ref="char:EOLhyphen"/>ing heard, ſince the 44th. yeer of Queene <hi>Elizabeths Rayne un<g ref="char:EOLhyphen"/>till this preſent,</hi> eſpecially in the Court of Chancery, where the ſucceeding Orders (like ſo many vipers) ſtill eat up and de<g ref="char:EOLhyphen"/>vour all the preceeding Orders, or that Court, and one cauſe
+<pb n="7" facs="tcp:113628:5"/>of 40. l. value, produceth at the leaſt 700. ſeverall orders before it be determined, and the expence of that Suite (on the Plaintifs part only) amount unto 2500. l. at the leaſt, theſe and ſuch like cauſes (and the ſeverall commitments upon the ſame) makes Lawyers and Jaylours laugh, and both plaintiff and defendant to come heavily home by weeping croſſe, to the utter ruin of them and their poſterity, and at the laſt inforces them to ſell their Lands to their Lawyers, and Atturneys. We reade that <hi>Samuel</hi> judged <hi>Jſrael</hi> many yeeres, yet we reade not, that he nor any of his Servants and ſubordinate Officers exacted or rceived any fees and rewards of the people for the adminiſtration of Juſtice, or that the people were barred from pleading their cauſes (but only by Lawyers, Advocates, and Atturneys) or that ever there were ſuch a generation of men, or Inſtruments of contention knowne, or appointed by Gods Law, to the overthrowing of many a poore and righte<g ref="char:EOLhyphen"/>ous mans cauſe, by their ſeverall tricks and unjuſt devices ten<g ref="char:EOLhyphen"/>ding meerly for their owne ends, and ſelf-advantage of private gayne, although to the apparent inſlaving of the Nation, and ruine of the People.</p>
+               <p>Who, but ſome Lawyers, are (for theſe 5. yeeres paſt) con<g ref="char:EOLhyphen"/>ceived to be the only obſtructors of <hi>Magna Charta,</hi> in poynt of the Subjects Liberty, and inſlaving their perſons in their ſeverall priſon-houſes, notwithſtanding the peoples ſeverall Re<g ref="char:EOLhyphen"/>monſtrances, Petitions, Declarations, and appeales unto the honourable houſes of Parliament, and Commonalty of the Land, and inſtead of reliefe, their miſeries have been augmen<g ref="char:EOLhyphen"/>ted to them, by the crueltie of Jaylors (who are counte<g ref="char:EOLhyphen"/>nanced) and the poore Priſoners complaints, rejected and themſelves diſcouraged from exhibiting any further com<g ref="char:EOLhyphen"/>plaints againſt them, for Juſtice and Reliefe? who but Law<g ref="char:EOLhyphen"/>yers make merchandiſe of Juſtice, and confine the practiſe of the ſame, unto the <hi>Latine Tongue,</hi> and <hi>Pedlars French,</hi> like unto the Maſſe Prieſts, who in like manner confine the Service of God to the Latine Tongue that they may make merchandiſe of the word of God, and by keeping the people in Ignorance, in<g ref="char:EOLhyphen"/>force them (like ſlaves) to walke by their light, as the Lawyers and Atturneys do by this Nation; For their Tongues deviſe
+<pb n="8" facs="tcp:113628:6"/>miſchief, working deceitfully, becauſe they love evill more then good, contention more then Peace, and lying, and ſwear<g ref="char:EOLhyphen"/>ing, more then to ſpeak the truth, becauſe contention, ſtrife, and debate, is the only thing that brings the price of gayne, Riches, Honour, and Preferment unto their <hi>Mill</hi> of conten<g ref="char:EOLhyphen"/>tion and profeſſion.</p>
+               <p>The Lord in mercy looke upon the deplorable, afflicted, op<g ref="char:EOLhyphen"/>preſſed, and diſtreſſed Eſtate of this diſtracted Kingdome, and now at the laſt (after five yeeres expectation) be pleaſed to o<g ref="char:EOLhyphen"/>pen the eyes, and incline the hearts of the honourable Aſſembly in Parliament, unto the ſpeedy and free execution and admini<g ref="char:EOLhyphen"/>ſtration of Juſtice, Judgment, and Mercy, in a cleere current without reſpect of perſons, or the wages of <hi>Balam,</hi> that ſo the wrath of God may be appeaſed, his preſent Judgements di<g ref="char:EOLhyphen"/>verted, and the poore, affllicted, oppreſſed, and long impriſon<g ref="char:EOLhyphen"/>ed, relieved and releaſed, and alſo inabled to reape the fruits of juſtice againſt their oppreſſours.<note place="margin">Pſal. 123.4 Pſal. 140.3. Pſal. 142.6.</note> And the high and honourable Court of Parliament alſo, thereby cleerly acquitted of and from the ſeverall blemiſhes faſtned on them (not only in this King<g ref="char:EOLhyphen"/>dome but alſo in other Countries) for the neglect of the due adminiſtration of Juſtice (according to expectation upon their firſt Summons and convening) and the reſtoration of the Commonalty unto their juſt and ancient Birth-right of Liber<g ref="char:EOLhyphen"/>ty, according to <hi>Magna Charta,</hi> and the late Petition of Right, ratified and confirmed by his now Majeſty, more then 4. yeers ſince.</p>
+               <p>I do alſo therefore in all humility, moſt humbly, and ear<g ref="char:EOLhyphen"/>neſtly, implore the high and Honourable Aſſembly, Piouſly to conſider, That the miſeries happening to one man, at one time, may redound to another man the next, and that the ſame divine hand of power which at the firſt, did caſt us downe into the duſt of reproach, miſery, and oppreſſion, is alſo able at his pleaſure, to bring the mightieſt, the richeſt, yea, the prou<g ref="char:EOLhyphen"/>deſt downe to the like duſt of miſery, and bands of oppreſſion; Beſeeching them alſo to conſider, that if any their carſes were the ſame with us, whether, they then would be willing &amp; con<g ref="char:EOLhyphen"/>tented thus to ſuffer, &amp; to be oppreſſed by the indirect practiſe of the Law, and Tyrannie of Jaylors, and their helliſh Inſtru<g ref="char:EOLhyphen"/>ments;
+<pb n="9" facs="tcp:113628:6"/>To be by them cloſe impriſoned, put in Irons, ſtarved, yea murthered in Goale (I trowe not) yea, I am confident that they woud account it a great meaſure of cruelty inflicted on them, or their poſterity; and have not many thouſands of an<g ref="char:EOLhyphen"/>cient families in this Kingdome, (by impriſonment) been brought to utter ruine and deſtruction, and have not I knowne divers perſonages, nobly deſended of very ancient Families in this Kingdome, that have periſhed miſerably in Goal, and their miſery not pittied by any, nor their death no more re<g ref="char:EOLhyphen"/>garded by the Jaylour, nor any his Subſtitutes, then the bark<g ref="char:EOLhyphen"/>ing of a Dogg. Theſe things piouſly conſidered (according to the Rule of Chriſtian Charity) it is then to be wiſhed, that the facred Rule of our Saviour Chriſt might ſpeedily be put in practice amongſt the Inhabitants of this Land; from the high<g ref="char:EOLhyphen"/>eſt to the loweſt of them. <hi>To do as we deſire others ſhould do to us,</hi> and not like Caniballs, out of meere malice and revenge, (and the great gayne by contention) to devoure one another in pri<g ref="char:EOLhyphen"/>ſon houſes, that ſo the God of <hi>Juſtice, Love, Mercy,</hi> and <hi>Peace,</hi> may receive us againe to mercy, and returne unto us, with healing in his wings.<note place="margin">Note this vvell.</note> 
+                  <hi>For behold, wickedneſſe and op<g ref="char:EOLhyphen"/>preſſion ſhall not deliver thoſe that are given to it, And there is a time wherein one man ruleth over another, to his own hurt, And becauſe ſentence against evill doers is not ſpeedily execu<g ref="char:EOLhyphen"/>ted; therefore the hearts of the Sons of</hi> Belial <hi>is fully ſet in them to do evell with both hands: For they lye in wayte for blood, they haunt their Brethren with the net of cruelty and op<g ref="char:EOLhyphen"/>preſſion. The beſt of them is as a Briar, or as a Thorny hedge unto his poore afflicted Brother; And if it be not ſo now, who will make me a lyer, and make this my ſpeech nothing worth,</hi> J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be 24 25. <hi>For thus ſaith the Lord, who art thou, that thou ſhouldeſt be afraid of men that ſhall die, and the Sons of men which ſhall be made as Graſſe, and forgetteſt the Lord thy ma<g ref="char:EOLhyphen"/>ker, becauſe of the fury of the oppreſſour, as if he were ready to deſtroy; Feare not the reproach of men, be not diſmaid at their lookes, neither be afraid of their revilings; for the Moth and the Worm ſhall eat them, horrer, coufuſion, and eternall de<g ref="char:EOLhyphen"/>struction ſhall take hold of them, And where (then) is the fu<g ref="char:EOLhyphen"/>ry of the oppreſſour? I am he that comfort thee; for I am a juſt,
+<pb n="10" facs="tcp:113628:7"/>and a righteous God, who bring Princes to nothing, and make all the Judges of the Earth as vanity; Therefore fear not man, whoſe breath is in his Noſthrils, for wherein is he to be accompted of; Behold I the Lord execute Righteouſneſſe and Judgement, for all that be oppreſſed; Therefore be not afraid of their faces, nor of their haughty and proud looks, for I am with thee.</hi>
+               </p>
+               <lg>
+                  <l>Impriſonment may be compared to Hell</l>
+                  <l>Where puniſhment, among them ſhall excell,</l>
+                  <l>And Hels muſick is, to curſe and ſwear</l>
+                  <l>And ban, their wicked friends, ſo do they there;</l>
+                  <l>As they in Hell, ſhall daily howl and cry,</l>
+                  <l>For to obtain ſome eaſe, or liberty,</l>
+                  <l>So men in priſon daily make complaint,</l>
+                  <l>How they with grief and hunger pine and faint,</l>
+                  <l>And are tormented by the Jaylors ſtill</l>
+                  <l>With iron fetters, abuſed at their will:</l>
+                  <l>Yet theſe unto Delinquents, Traytors, Papiſts, Knaves,</l>
+                  <l>Yeild liberty, give moneys, onely make us ſlaves,</l>
+                  <l>That loyall are, no Enemies to th' ſtate;</l>
+                  <l>This is our lot, this is our cruell fate,</l>
+                  <l>And fruits we reap for our fidelity,</l>
+                  <l>From theſe vile imphs of all diſloyalty,</l>
+                  <l>Who moſt of them being none other then,</l>
+                  <l>Fiends of hell, walking in ſhapes of men,</l>
+                  <l>Acting <hi>Belzebubs</hi> pleaſure, on us all</l>
+                  <l>That are their captives, lying in Bonds and thrall:</l>
+                  <l>Yet we theſe five years paſt, no right can have</l>
+                  <l>Though we the ſame full oft with tears did crave,</l>
+                  <l>Of King and Parliament to grant, but that</l>
+                  <l>Which they themſelves full oft, have ſworn flat,</l>
+                  <l>For to maintain, the liberties and right</l>
+                  <l>Of free-born Subjects, and thereto have plight</l>
+                  <l>Their faith, their covenant, and their Proteſtation,</l>
+                  <l>Yet for all this, we ſtill reap moleſtation,</l>
+                  <pb n="11" facs="tcp:113628:7"/>
+                  <l>Anguiſh and ſorrow, afflicts our hearts and will,</l>
+                  <l>Cruelty of Jaylors, doth torment us ſtill:</l>
+                  <l>If Lawes, if oathes, if vowes, if Proteſtation,</l>
+                  <l>If covenant with God, produce ſuch reformation,</l>
+                  <l>Then Judges, Lawyers, Atturneys, Jaylors, all</l>
+                  <l>This Kingdomes glory, unto your lot muſt fall.</l>
+                  <l>
+                     <hi>Then Bribes and Fees all Helliſh gain,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall flouriſh to the peoples pain,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſorrow grief and miſery,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall ſtill poſſeſſe the Commonalty,</hi>
+                  </l>
+                  <l>
+                     <hi>For justice, judgement, and mercy,</hi>
+                  </l>
+                  <l>
+                     <hi>Are grounded on true piety,</hi>
+                  </l>
+                  <l>
+                     <hi>But want of juſtice in this land,</hi>
+                  </l>
+                  <l>
+                     <hi>Hath brought on all, Gods heavie hand.</hi>
+                  </l>
+                  <l>Be carefull then, ſuppreſſe the Imphes, make ſure</l>
+                  <l>Your Rights and Liberties, may ſtill endure</l>
+                  <l>To future ages, poſterity then may</l>
+                  <l>Have cauſe, to bleſſe your memories for aye:</l>
+                  <l>For God, is God of Unity, of Love, and Peace alone,</l>
+                  <l>But theſe men for deceit and ſtrife,</l>
+                  <l>the like of them there's none.</l>
+                  <l>
+                     <hi>Probatum est.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>For whatſoever is not of God is from the Divell. But injuſtice, contention (and the inſtruments of the ſame) Oppreſſion, Bribery, impriſonment of men unjuſtly, ſtarving, and murthering of men in Goal, are not from God; Therefore from the Divell: And who<g ref="char:EOLhyphen"/>ſoever doth them, doth the will of his father the Divell; for he is a murtherer from the beginning, and the grand Enemy to Juſtice, Love, Mercy, and Peace. Therefore if we be of God, we muſt then do the works of God, and manifeſt the fruits of the ſame. And theſe are the works of God; To execute juſtice and judgement, to ſhew mercy, to relieve the Widdow, the fatherleſſe, and the ſtran<g ref="char:EOLhyphen"/>ger, and to let the oppreſſed go free. Let us therefore now at the laſt (by ſuppreſſing of Contention, Injuſtice, Tyranny, and Oppreſ<g ref="char:EOLhyphen"/>ſion, and the wicked inſtruments of the ſame; And by a ſpeedy ad<g ref="char:EOLhyphen"/>miniſtration of juſtice, judgement, and mercy) try the Lord our God, and ſee if the Lord will not forthwith powr down his mercies
+<pb n="12" facs="tcp:113628:8"/>on us, withdraw his preſent judgements (of Deviſion, Sword, and Plague) from us, and heal the Land; and ſo become a father of mercies, a God of comfort and conſolation, unto us, and our poſte<g ref="char:EOLhyphen"/>rity after us.</hi>
+               </p>
+               <p>It is to be wiſhed, that the Lawes of England favoured of as much <hi>juſtice</hi> and <hi>mercy,</hi> and were but as truly executed with<g ref="char:EOLhyphen"/>out reſpect of perſons, as the Lawes of ſome Forraign Nations are, &amp; that there were ſome honeſt men appointed, for the Viſita<g ref="char:EOLhyphen"/>tion of Priſons every firſt Munday in the Month, for to reſtrain the cruelty of Jaylours, and to know the cauſes of mens Impri<g ref="char:EOLhyphen"/>ſonment; To whom the priſoner declaring himſelf by Peti<g ref="char:EOLhyphen"/>tion, declares the reall value of his eſtate (and as in the preſence of God, affirms the contents of his Petition to be the whole truth) unto which the Commiſſioners then ſubſcribe. <hi>Let the Creditors ſee this Petition, and by the next Viſitation day, either diſprove the contents thereof, or elſe the Petitioner to be ſet free, upon the aſſignement of the two third parts of the ſaid declared E<g ref="char:EOLhyphen"/>ſtate unto them. In the mean time, the Creditors, or party impri<g ref="char:EOLhyphen"/>ſoning the Debtor, are to take care for his ſubſiſtence in Goal, and to diſcharge all just Priſon fees.</hi>
+               </p>
+               <p>And if the Creditor happen to diſprove the ſaid Debtors Pe<g ref="char:EOLhyphen"/>tition before the ſaid Commiſſioners, and prove that he hath concealed ſome part of his eſtate; then (for a puniſhment to ſuch a deceiver) his whole eſtate is, by the ſaid Commiſſioners aſſigned to the Creditors, and both he, his wife, and children, deprived of their third part of the ſame; and the ſaid fraudu<g ref="char:EOLhyphen"/>lent Debtor is then alſo adjudged to ſtand in the Pillory (and a hole punched or bored through his ear.) But upon the Debtors diſcovery of his whole eſtate (be it more or leſſe) really and truly, then the Commiſſioners do forthwith aſſigne two third parts of the ſaid eſtate to the Creditors, and the other part thereof unto the ſaid Debtor, for and towards the future ſub<g ref="char:EOLhyphen"/>ſiſtence of himſelf and his wife, and education of his children: And further, that if any Debtor, do of purpoſe take up goods &amp; monies, with an intent to defraud (and take a priſoner as his ſurety) by aſſigning over in truſt the ſaid eſtate to ſome of his friends (this being proved) then the ſaid Commiſſioners have power to aſſigne all the ſaid eſtate unto the Creditors, prohibi<g ref="char:EOLhyphen"/>ting
+<pb n="13" facs="tcp:113628:8"/>(by proclamation) all perſons from paying or delivering unto the ſaid cheating Debtor any monies, goods, or Lands, or to any other perſons for his uſe, but only unto the Creditors; And the ſaid Cheator or fraudulent Debtor, is then alſo ad<g ref="char:EOLhyphen"/>judged to ſtand three hours in the Pillory, and to have then both his Noſthrils ſlit up (by the common Hangman) or ſome baſe <hi>Hounds-Cut:</hi>) Such a courſe as this, truly and juſtly put in execution here in <hi>England,</hi> would ſoon increaſe the number of honeſt men, and produce (if not inforce) honeſt and plainer dealing, from, and amongſt all men, and it would alſo deſtroy the great number of Deceivers, Oppreſſors, Extortioners, and Gentlemen-cheaters, as well as common-Cheaters, and all Knights of the Poſt, common Bail-men, and all ſuch cunny-catching deceitfull companions. The opening of this gap (I doubt not) will draw upon me, the rage and malice (if not the curſe) of all Knights and Gentlemen Jaylours and their Sub<g ref="char:EOLhyphen"/>ſtitutes, as alſo the revengefull fury of ſome evill-minded Law<g ref="char:EOLhyphen"/>yers, Atturneys, Clarkes, Soliciters, Sergeants, and Bumbay<g ref="char:EOLhyphen"/>liffes: From whoſe Milles (by this meanes) the great gainfull waters of <hi>contention, fraud, injuſtice, and oppreſſion,</hi> will be dreyned dry, theit deceitfull craft fall to the ground, and their Goddeſſe <hi>Diana</hi> quite drowned in the Sea of <hi>Englands</hi> Peace and Tranquility.</p>
+               <epigraph>
+                  <q>
+                     <l>Truth from Injuſtice, may hap to reap ſome Blame,</l>
+                     <l>Yet truth ſhall ſtand, Injuſtice ſhall reap the ſhame.</l>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="14" facs="tcp:113628:9"/>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>I Pray thee to accept of this ſmall Treatiſe for the preſent, and if this unjuſt bondage of Impriſonment, be any longer conti<g ref="char:EOLhyphen"/>nued, upon the Commonalty of this Land, then expect a more larger Relation, and Declaration of the many ſeverall oppreſ<g ref="char:EOLhyphen"/>ſions, indirect practiſes, and abuſes of the ſeverall Courts, and Committees, as alſo of the ſeverall murthers and cruelties, by Jaylors committed on priſoners, <hi>when, where, on whom, and by whom;</hi> ſo farre forth as God ſhall enable me, and give me life and health. In the mean time I remain, thine and the King<g ref="char:EOLhyphen"/>domes friend and well-wiſher, and a profeſſed Enemy to all inſtruments of Injuſtice, Tyranny, and Oppreſſion.</p>
+            <p>
+               <hi>For the Lord upholdeth my ſoul, he, even the God of Juſtice, Judgement, and Mercy, is on my ſide, and taketh my part against all thoſe that ſeek to deſtroy my ſoul; Therefore will I not fear what man can do unto me.</hi>
+            </p>
+            <closer>
+               <salute>FAREWELL,</salute>
+               <dateline>
+                  <date>This year of Hope, 1646.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:113628:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
